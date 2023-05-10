@@ -1,2 +1,2 @@
 # GoByExample
- Example library for Go Language
+Example library for Go Language
